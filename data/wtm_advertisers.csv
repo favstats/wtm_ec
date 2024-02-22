@@ -1,15 +1,13 @@
 id,name,created_at,advertisers_entities.id,entities.short_name,countries.name,countries.alpha2,advertisers_platforms.advertiser_platform_ref,advertisers_platforms.advertiser_platform_name,platforms.name
 c277c559-a67f-4c1f-a87f-22f23a7d75b1,Alvaro Noboa,2022-08-16T15:24:01.298Z,b0be8d27-ecc3-4d6f-95dd-d28e5e021cf1,AEA,Ecuador,ec,1505940076395090,Alvaro Noboa,Facebook
-b976fb8a-5170-493f-9d0a-57cfa9ad086a,Paco Moncayo,2022-08-16T15:24:01.209Z,a8b0e5fb-ac0e-4474-9062-8d73aaa6c3c1,ID,Ecuador,ec,132732676803190,Paco Moncayo,Facebook
-74e57018-8ee1-49c1-af50-441e82787209,Jorge Yunda,2022-08-16T15:24:01.311Z,839b9842-deb7-4469-afbf-c0df12c7ebf4,UE,Ecuador,ec,334722650712707,Jorge Yunda,Facebook
-897f2b16-e9b0-426f-b386-1457c3fa7e0c,Luisa Maldonado,2022-08-16T15:24:01.247Z,c3c638d5-25b9-41dd-8253-f6b5cac73ca2,FCS,Ecuador,ec,318701748537695,Luisa Maldonado,Facebook
-f6728fa3-4784-4592-a302-cd3d58472bb5,Andrés Pasquel,2022-08-16T15:24:01.355Z,a8adb226-bab0-4d14-86f0-60d61e94f509,PPA,Ecuador,ec,546145519192021,Andrés Pasquel,Facebook
-2676a88a-9e69-4935-81cd-11f20d73d245,Cynthia Viteri,2022-08-16T15:24:01.234Z,861f93aa-f797-4397-aef2-f5d5c441aa73,PSC,Ecuador,ec,150237258650302,Cynthia Viteri,Facebook
-ab3d2a8a-2bf4-403a-9bda-348b538f115e,César Montúfar,2022-08-16T15:24:01.344Z,9de48be8-c2db-4e04-91ce-d4aeee6c79ef,MC,Ecuador,ec,95945828644,César Montúfar,Facebook
-0df0e4b9-8ec9-4d85-ab04-a9a7bf8c417c,Mery Zamora,2022-08-16T15:24:01.277Z,7b95ed45-33f8-42ae-a707-6156993f2709,UP,Ecuador,ec,553660251386311,Mery Zamora,Facebook
-2ebd9584-7cd2-4bc9-957c-63f465104468,Juan Carlos Holguin,2022-08-16T15:24:01.230Z,d2e5c3fb-57d3-488d-a622-fa6dc9ba2d78,CRE,Ecuador,ec,550491795320895,Juan Carlos Holguin,Facebook
 6972a6d2-fc32-40a1-835e-0d2d1e0d72bd,Jimmy Jairala,2022-08-16T15:24:01.278Z,fe8be6d8-4a00-453b-b57a-61ed944c68b2,CD,Ecuador,ec,133029900050448,Jimmy Jairala,Facebook
 e8cdbbf5-1aae-4b52-92cd-abcea79bd148,Alfredo Adum,2022-08-16T15:24:01.309Z,89e2c4be-d0b1-4f68-986f-3a94a34025b1,EC,Ecuador,ec,1725466414380190,Alfredo Adum,Facebook
+ab3d2a8a-2bf4-403a-9bda-348b538f115e,César Montúfar,2022-08-16T15:24:01.344Z,9de48be8-c2db-4e04-91ce-d4aeee6c79ef,MC,Ecuador,ec,95945828644,César Montúfar,Facebook
+897f2b16-e9b0-426f-b386-1457c3fa7e0c,Luisa Maldonado,2022-08-16T15:24:01.247Z,c3c638d5-25b9-41dd-8253-f6b5cac73ca2,FCS,Ecuador,ec,318701748537695,Luisa Maldonado,Facebook
+2ebd9584-7cd2-4bc9-957c-63f465104468,Juan Carlos Holguin,2022-08-16T15:24:01.230Z,d2e5c3fb-57d3-488d-a622-fa6dc9ba2d78,CRE,Ecuador,ec,550491795320895,Juan Carlos Holguin,Facebook
+b976fb8a-5170-493f-9d0a-57cfa9ad086a,Paco Moncayo,2022-08-16T15:24:01.209Z,a8b0e5fb-ac0e-4474-9062-8d73aaa6c3c1,ID,Ecuador,ec,132732676803190,Paco Moncayo,Facebook
+2676a88a-9e69-4935-81cd-11f20d73d245,Cynthia Viteri,2022-08-16T15:24:01.234Z,861f93aa-f797-4397-aef2-f5d5c441aa73,PSC,Ecuador,ec,150237258650302,Cynthia Viteri,Facebook
 3649daa1-2431-4538-b2da-69dc0eea7416,Pablo Dávalos,2022-08-16T15:24:01.272Z,999b0fe8-93ed-4446-abfb-ed46cc4f010b,PK,Ecuador,ec,109453292901228,Pablo Dávalos,Facebook
-238b9ed2-9f80-4daf-9e21-ef6952e2b03e,Coquette Shop,2023-09-13T05:07:02.549Z,be44c897-f6b8-4027-adbc-ccb1ba4523e2,ZZZ,Ecuador,ec,116185223081018,Coquette Shop,Facebook
-c96e2d9c-3b17-4f5d-a01a-9fb2e480be04,FICC Festival de Cine de Cuenca,2023-09-13T05:07:02.601Z,44b535a5-6ae5-469d-a5c7-4a5d1b36f29f,ZZZ,Ecuador,ec,215917381767988,FICC Festival de Cine de Cuenca,Facebook
+f6728fa3-4784-4592-a302-cd3d58472bb5,Andrés Pasquel,2022-08-16T15:24:01.355Z,a8adb226-bab0-4d14-86f0-60d61e94f509,PPA,Ecuador,ec,546145519192021,Andrés Pasquel,Facebook
+74e57018-8ee1-49c1-af50-441e82787209,Jorge Yunda,2022-08-16T15:24:01.311Z,839b9842-deb7-4469-afbf-c0df12c7ebf4,UE,Ecuador,ec,334722650712707,Jorge Yunda,Facebook
+0df0e4b9-8ec9-4d85-ab04-a9a7bf8c417c,Mery Zamora,2022-08-16T15:24:01.277Z,7b95ed45-33f8-42ae-a707-6156993f2709,UP,Ecuador,ec,553660251386311,Mery Zamora,Facebook
